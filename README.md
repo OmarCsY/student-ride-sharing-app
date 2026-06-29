@@ -1,5 +1,6 @@
 # Student Ride Sharing System
 
+
 > A university-focused ride sharing system built as a collaborative team project to provide a secure and organized transportation solution for students.
 
 ---
